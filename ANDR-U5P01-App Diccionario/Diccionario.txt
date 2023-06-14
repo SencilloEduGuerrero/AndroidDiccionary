@@ -1,0 +1,41 @@
+concepto|subtitulo|descripcion|ruta_audio|
+SOAP|Simple Object Access Protocol|||
+SOA|Service Oriented Arquitechture|||
+REST|Representational State Transfer|||
+RPC|Remote Procedure Call|||
+SOA|Service-Oriented Architecture|||
+JSON|Javascript Object Notation|||
+SPF|Sender Policy Framework|||
+DKIM|DomainKeys Identified Mail|||
+DMARC|Domain-based Message Authrntication, Reporting & Conformance|||
+TLS|Transport Layer Security|||
+MIME|Multipurpose Internet Mail Extensions|||
+GRASP|General Responsibility Assignment Software Principles|||
+MPEG|Moving Picture Experts Group|Son estandares para codificar informacion audiovisual en un formato digital comprimido.||
+KATALON|Studio 8.2|Herr para pruebas automatizadas. docs.katalon.com, academy.katalon.com||
+RPA|Robotic Process Automation|||
+BLOB|Binary Large Object|||
+CLOB|Character Large Object|Una coleccion de datos de caracteres en un sistema de bd.||
+UUID|Identificador Unico Universal|Numero de 16 bytes (128bits), 32 digitos hex dividos en 5 grupos 8-4-4-4-12.||
+GUID|Identificador Unico Global|Es la implementacion de MS a la especificacion UUID.||
+RSA|Rivest, Shamir y Adleman|Es un sistema criptográfico de clave pública desarrollado en 1979, que utiliza factorización de números enteros. Es el primer y más utilizado algoritmo de este tipo y es válido tanto para cifrar como para firmar digitalmente.||
+LDAP|Lightweight Directory Access Protocol|Protocolo Ligero de Acceso a Directorios. Protocolo que permite el acceso a un directorio ordenado y distribuido para buscar diversa informacion en un entorno de red.||
+FLUJO DE TRABAJO|Workflow|Estudio de los aspectos operacionales de una actividad de trabajo, osea como se estructuran, el orden en que se realizan, el tiempo que toman, etc.||
+DCIM|Digital Camera & IMages|||
+SDCard|Secure Digital Card|||
+ESPRESSO|Framework de testing| Framework de codigo abierto, por Google, provee API para crear pruebas de IU en una app Android.||
+APPIUM||Herramienta de automatizacion de codigo abierto para probar aplicaciones nativas, web e hibridas sobre Android o iOS usando un webdriver.||
+SELENIUM||Entorno de pruebas de software para aplicaciones web. Utiliza herramienta grabar/reproducir para crear pruebas sin usar un lenguaje de scripting.||
+KATALON||Plataforma de gestion de la calidad. Web, API, Mobile, Desktoo,  Visual testing.|| 
+JENKINS||Es un servidor open source para la integracion continua CI. Se usa para probar y compilar proyectos de software de forma continua. Facilita la incorporacion de cambios en un desarrollo y la entrega de nuevas versiones. Soporta Node, Golang, Java, Python, Ruby entre otros. Ofrece cuenta gratuita.||
+JIRA|de Atlassian|Software propietario para la gestion de proyectos, seguimiento de errores e incidencias. Ofrece cuenta gratuita.||
+POSTMAN||Plataforma de API para que los desarrolladores puedan diseñar, construir, probar e iterar sus APIs. Permite probar APIs a traves de una GUI.||
+SOAP-UI||Herramienta desarrollada en Java, para la realizacion de pruebas a aplicaciones con arquitectura orientada a servicio y REST. Soporta multiples protocolos como SOAP, REST, HTTP, JMS, AMF y JDBC.||
+SWAGGER||Conjunto de herramientas de codigo abierto para diseñar, construir, documentar y utilizar servicios web RESTful. Incluye documentacion automatizada, generacion de codigo y generacion de casos de prueba.||
+SLACK||Herramienta de comunicacion en equipo. Aplicacion de mensajeria para empresas que conecta a las personas con la informacion que necesitan. Reune a las personas para que trabajen como un equipo unificado.||
+SOURCE-TREE||Es una GUI Git que ofrece una representacion visual de tus repositorios. Es un cliente Git libre para Windows y Mac.||
+JMETER||Proyecto Apache que puede ser usado como herramienta de prueba de carga para analizar y medir el rendimiento de una variedad de servicios, con enfasis en aplicaciones web.||
+TEST-NG||Framework para pruebas y testing para Java. Esta basado en JUnit y NUnit, pero introduciendo nuevas funcionalidades que los hacen mas poderosos y faciles de usar, tales como anotaciones JDK 5. Configuracion flexible de pruebas. Soporte para pruebas para data-driven testing.||
+MOCKITO||Framework de prueba de codigo abierto para Java. Permite la creacion de objetos dobles de prueba en pruebas de unidad automatizada para el desarrollo guiado por pruebas o dirigido por comportamiento.||
+CONCURRENCIA||Capacidad de un CPU para procesar mas de un proceso al mismo tiempo. Los pocesos normalmente son independientes y la terminacion de uno no afecta la ejecucion de otro.||
+PARALELISMO||Dividir un problema en fracciones mas pequeñas, luego cada fraccion se procesa concurrentemente. Requiere un paso final que se encargue de unir los resultados de todos los procesos para arrojar un resultado final.||
